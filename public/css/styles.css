@@ -1,0 +1,37 @@
+h1{
+    color: green;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+body{
+    color:red;
+    width: 650px;
+    font-family: Arial;
+    margin:0 auto;
+    padding:0 16px;
+    display:flex;
+    flex-direction: column;
+    min-height: 100px;
+}
+
+footer{
+    background : blue;
+
+}
+
+header a{
+ color:red;
+}
+
+h2{
+    color:rebeccapurple;
+}
+
+header h1{
+    color:yellow;
+}
+
