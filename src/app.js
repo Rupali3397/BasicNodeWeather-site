@@ -109,7 +109,10 @@ app.get('*',(req,res)=>{
     })
 })
 
+console.log("app.js start file")
+
 app.listen(3000,() =>{
     console.log("Server is up and running")
 })
+
 
