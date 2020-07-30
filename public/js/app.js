@@ -7,7 +7,7 @@ const search = document.querySelector('input')
 const message1= document.querySelector('#message1')
 const message2= document.querySelector('#message2')
 
-
+ 
 
 
 weatherform.addEventListener('submit',(e)=>{
